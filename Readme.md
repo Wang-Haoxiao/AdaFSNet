@@ -4,8 +4,7 @@ AdaFSNet: Time Series Classification Based on Convolutional Network with a Adapt
 
 ### Environment 
 
-python == 3.8
-
+python == 3.8 
 pytorch == 1.1.0  
 scikit-learn == 0.21.3
 
