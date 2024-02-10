@@ -1,16 +1,5 @@
-!!!! Sometimes GitHub cannot render ipynb file. It's Github's [problem](https://github.com/jupyter/notebook/issues/3555#issuecomment-403361082) just wait for a few minutes and try again. !!!!
-
-
-
-This is code for the paper [Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification (ICLR 2022)](https://arxiv.org/abs/2002.10061)
-
-
-	@inproceedings{tang2021omni,
-	  title={Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification},
-	  author={Tang, Wensi and Long, Guodong and Liu, Lu and Zhou, Tianyi and Blumenstein, Michael and Jiang, Jing},
-	  booktitle={International Conference on Learning Representations},
-	  year={2021}
-	}
+This is code for the paper 
+AdaFSNet: Time Series Classification Based on Convolutional Network with a Adaptive and Effective Kernel Size Configuration
 
 
 ### OS-CNN achieves SOTA on
