@@ -1,4 +1,4 @@
-This is code for the paper 
+This is code for our paper 
 AdaFSNet: Time Series Classification Based on Convolutional Network with a Adaptive and Effective Kernel Size Configuration
 
 
